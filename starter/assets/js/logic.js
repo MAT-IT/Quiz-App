@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
   
     // Quiz variables
     var currentQuestionIndex = 0;
-    var timeLeft = 120; // Set the initial time in seconds
+    var timeLeft = 60; // Set the initial time in seconds
     var timerInterval;
     var score = 0;
   
